@@ -9,3 +9,24 @@ common styles
 body{
     font-family: 'Poppins', sans-serif;
 }
+.heading-1{
+    display: flex;
+    padding: 5%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #E02C6D;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+}
+.fetured-1{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+
+}.half-width img{
+    width: 70%;
+}
